@@ -1,16 +1,13 @@
-## Hi there 👋
+### Boas vindas ao meu perfil
 
-<!--
-**Vitorbryanb/Vitorbryanb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome Vitor Bryan
+- Estou estudando na [alura](https:wwww.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhameto dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+  ### Você pode entrar em contato comigo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  vb17219@gmail.com
+
+
+![](https://media.tenor.com/3HFUzFAN9owAAAAM/%D1%88%D0%BA%D0%BE%D0%BB%D0%B0-school.gif)
